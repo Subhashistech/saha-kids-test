@@ -1,0 +1,2682 @@
+[
+{
+"id": "p1A1",
+"s": "A",
+"q": "What comes next?  ★ ● ▲ ★ ● ▲ ★ ● ___",
+"o": [
+"★",
+"●",
+"▲",
+"■"
+],
+"a": 2
+},
+{
+"id": "p1A2",
+"s": "A",
+"q": "What comes next?  ■ ■ ● ■ ■ ● ■ ■ ___",
+"o": [
+"■",
+"●",
+"▲",
+"★"
+],
+"a": 1
+},
+{
+"id": "p1A3",
+"s": "A",
+"q": "Select the odd one out.",
+"o": [
+"Apple",
+"Banana",
+"Mango",
+"Carrot"
+],
+"a": 3
+},
+{
+"id": "p1A4",
+"s": "A",
+"q": "Select the odd one out.",
+"o": [
+"Cow",
+"Dog",
+"Parrot",
+"Goat"
+],
+"a": 2
+},
+{
+"id": "p1A5",
+"s": "A",
+"q": "Which number does NOT belong with the others?  10, 20, 30, 35",
+"o": [
+"10",
+"20",
+"30",
+"35"
+],
+"a": 3
+},
+{
+"id": "p1A6",
+"s": "A",
+"q": "Bird is to Nest as Dog is to ______.",
+"o": [
+"Kennel",
+"Stable",
+"Den",
+"Hive"
+],
+"a": 0
+},
+{
+"id": "p1A7",
+"s": "A",
+"q": "Hand is to Glove as Foot is to ______.",
+"o": [
+"Hat",
+"Sock",
+"Ring",
+"Belt"
+],
+"a": 1
+},
+{
+"id": "p1A8",
+"s": "A",
+"q": "Five children stand in a line from left to right: Ria, Tom, Anu, Sam, Meg. Who is 2nd from the right?",
+"o": [
+"Anu",
+"Sam",
+"Tom",
+"Meg"
+],
+"a": 1
+},
+{
+"id": "p1A9",
+"s": "A",
+"q": "In the same line (Ria, Tom, Anu, Sam, Meg), who is standing in the middle?",
+"o": [
+"Anu",
+"Tom",
+"Sam",
+"Ria"
+],
+"a": 0
+},
+{
+"id": "p1A10",
+"s": "A",
+"q": "If today is Monday, what day will it be tomorrow?",
+"o": [
+"Sunday",
+"Wednesday",
+"Tuesday",
+"Friday"
+],
+"a": 2
+},
+{
+"id": "p1A11",
+"s": "A",
+"q": "If yesterday was Friday, what day is today?",
+"o": [
+"Thursday",
+"Saturday",
+"Sunday",
+"Monday"
+],
+"a": 1
+},
+{
+"id": "p1A12",
+"s": "A",
+"q": "The 1st day of a month is a Sunday. On which date is the second Sunday?",
+"o": [
+"14th",
+"7th",
+"15th",
+"8th"
+],
+"a": 3
+},
+{
+"id": "p1A13",
+"s": "A",
+"q": "Which day comes just before Thursday?",
+"o": [
+"Wednesday",
+"Friday",
+"Tuesday",
+"Monday"
+],
+"a": 0
+},
+{
+"id": "p1A14",
+"s": "A",
+"q": "How many groups of 3 can be made from these balls?  ● ● ● ● ● ● ● ● ● ● ● ●",
+"o": [
+"4",
+"3",
+"6",
+"5"
+],
+"a": 0
+},
+{
+"id": "p1A15",
+"s": "A",
+"q": "How many stars are there?  ★ ★ ★ ★ ★ ★ ★ ★ ★",
+"o": [
+"8",
+"9",
+"10",
+"7"
+],
+"a": 1
+},
+{
+"id": "p1A16",
+"s": "A",
+"q": "Which is the 4th letter in the word ORANGE?",
+"o": [
+"A",
+"G",
+"N",
+"R"
+],
+"a": 2
+},
+{
+"id": "p1A17",
+"s": "A",
+"q": "Which month comes just after March?",
+"o": [
+"May",
+"February",
+"June",
+"April"
+],
+"a": 3
+},
+{
+"id": "p1A18",
+"s": "A",
+"q": "Which of these do we do in the morning?",
+"o": [
+"Brush teeth after waking up",
+"Sleep in bed",
+"Eat dinner",
+"Look at the stars"
+],
+"a": 0
+},
+{
+"id": "p1A19",
+"s": "A",
+"q": "Rahul is taller than Amit. Amit is taller than Neha. Who is the shortest?",
+"o": [
+"Rahul",
+"Amit",
+"Neha",
+"Can't say"
+],
+"a": 2
+},
+{
+"id": "p1A20",
+"s": "A",
+"q": "A box is heavier than a bag. The bag is heavier than a pen. Which is the lightest?",
+"o": [
+"Pen",
+"Bag",
+"Box",
+"All weigh the same"
+],
+"a": 0
+},
+{
+"id": "p1A21",
+"s": "A",
+"q": "What comes next?  5, 10, 15, 20, ___",
+"o": [
+"21",
+"30",
+"25",
+"22"
+],
+"a": 2
+},
+{
+"id": "p1A22",
+"s": "A",
+"q": "Seven monkeys sit in a row from left: P, Q, R, S, T, U, V. How many monkeys sit between P and T?",
+"o": [
+"2",
+"3",
+"4",
+"5"
+],
+"a": 1
+},
+{
+"id": "p1A23",
+"s": "A",
+"q": "In the same row (P, Q, R, S, T, U, V), which monkey is 3rd from the right end?",
+"o": [
+"T",
+"S",
+"U",
+"R"
+],
+"a": 0
+},
+{
+"id": "p1A24",
+"s": "A",
+"q": "Which of these does NOT come in a pair?",
+"o": [
+"Shoes",
+"Socks",
+"Gloves",
+"Hat"
+],
+"a": 3
+},
+{
+"id": "p1A25",
+"s": "A",
+"q": "Arrange from smallest to biggest: Ant, Cat, Elephant, Dog.",
+"o": [
+"Ant, Dog, Cat, Elephant",
+"Ant, Cat, Dog, Elephant",
+"Cat, Ant, Dog, Elephant",
+"Elephant, Dog, Cat, Ant"
+],
+"a": 1
+},
+{
+"id": "p2A1",
+"s": "A",
+"q": "What comes next?  1, 2, 4, 7, 11, ___",
+"o": [
+"14",
+"15",
+"16",
+"17"
+],
+"a": 2
+},
+{
+"id": "p2A2",
+"s": "A",
+"q": "What comes next?  A, B, B, C, C, C, D, D, D, ___",
+"o": [
+"A",
+"C",
+"D",
+"E"
+],
+"a": 2
+},
+{
+"id": "p2A3",
+"s": "A",
+"q": "Which number is the odd one out?  12, 21, 30, 33",
+"o": [
+"12",
+"21",
+"30",
+"33"
+],
+"a": 3
+},
+{
+"id": "p2A4",
+"s": "A",
+"q": "Which is the odd one out?",
+"o": [
+"Square",
+"Cube",
+"Triangle",
+"Circle"
+],
+"a": 1
+},
+{
+"id": "p2A5",
+"s": "A",
+"q": "3 is to 6 as 5 is to ______.",
+"o": [
+"8",
+"10",
+"15",
+"9"
+],
+"a": 1
+},
+{
+"id": "p2A6",
+"s": "A",
+"q": "Morning is to Breakfast as Night is to ______.",
+"o": [
+"Lunch",
+"Snack",
+"Dinner",
+"Tea"
+],
+"a": 2
+},
+{
+"id": "p2A7",
+"s": "A",
+"q": "In a race, Anu came 2nd. Ravi finished just after Anu, and Sam finished just after Ravi. In which position did Sam finish?",
+"o": [
+"3rd",
+"4th",
+"5th",
+"2nd"
+],
+"a": 1
+},
+{
+"id": "p2A8",
+"s": "A",
+"q": "In a row of 9 children, Mina is 5th from the left. What is her position from the right?",
+"o": [
+"6th",
+"4th",
+"5th",
+"3rd"
+],
+"a": 2
+},
+{
+"id": "p2A9",
+"s": "A",
+"q": "In a row of 10 children, Raj is 3rd from the left and Tia is 3rd from the right. How many children are between them?",
+"o": [
+"3",
+"4",
+"5",
+"6"
+],
+"a": 1
+},
+{
+"id": "p2A10",
+"s": "A",
+"q": "If the 3rd of a month is a Monday, what day is the 20th?",
+"o": [
+"Tuesday",
+"Wednesday",
+"Thursday",
+"Friday"
+],
+"a": 2
+},
+{
+"id": "p2A11",
+"s": "A",
+"q": "Today is Wednesday. What day will it be 3 days after tomorrow?",
+"o": [
+"Monday",
+"Saturday",
+"Friday",
+"Sunday"
+],
+"a": 3
+},
+{
+"id": "p2A12",
+"s": "A",
+"q": "Today is Friday. What day was it 2 days before yesterday?",
+"o": [
+"Tuesday",
+"Monday",
+"Wednesday",
+"Sunday"
+],
+"a": 0
+},
+{
+"id": "p2A13",
+"s": "A",
+"q": "If CAT is written as DBU, how is DOG written?",
+"o": [
+"EPH",
+"CNF",
+"EOH",
+"DPH"
+],
+"a": 0
+},
+{
+"id": "p2A14",
+"s": "A",
+"q": "If 1 = A, 2 = B, 3 = C and so on, what word does 2-1-4 spell?",
+"o": [
+"DAB",
+"BED",
+"BAD",
+"CAB"
+],
+"a": 2
+},
+{
+"id": "p2A15",
+"s": "A",
+"q": "17 pencils are put into groups of 5. How many full groups are made, and how many pencils are left over?",
+"o": [
+"2 groups, 7 left",
+"4 groups, 0 left",
+"3 groups, 3 left",
+"3 groups, 2 left"
+],
+"a": 3
+},
+{
+"id": "p2A16",
+"s": "A",
+"q": "If a week starts on Monday, which day is in the exact middle of the week?",
+"o": [
+"Wednesday",
+"Thursday",
+"Friday",
+"Tuesday"
+],
+"a": 1
+},
+{
+"id": "p2A17",
+"s": "A",
+"q": "Which month comes 2 months after November?",
+"o": [
+"December",
+"February",
+"January",
+"October"
+],
+"a": 2
+},
+{
+"id": "p2A18",
+"s": "A",
+"q": "Ali is taller than Bo. Cy is taller than Ali. Dev is shorter than Bo. Who is the tallest?",
+"o": [
+"Ali",
+"Bo",
+"Cy",
+"Dev"
+],
+"a": 2
+},
+{
+"id": "p2A19",
+"s": "A",
+"q": "In the same group (Ali, Bo, Cy, Dev), who is the 3rd tallest?",
+"o": [
+"Ali",
+"Bo",
+"Cy",
+"Dev"
+],
+"a": 1
+},
+{
+"id": "p2A20",
+"s": "A",
+"q": "How many times does the letter E appear in: ELEPHANTS EAT LEAVES",
+"o": [
+"6",
+"3",
+"5",
+"4"
+],
+"a": 2
+},
+{
+"id": "p1B1",
+"s": "B",
+"q": "The number name for 47 is:",
+"o": [
+"Forty-seven",
+"Seventy-four",
+"Forty-four",
+"Fourteen-seven"
+],
+"a": 0
+},
+{
+"id": "p1B2",
+"s": "B",
+"q": "The numeral for \"sixty-two\" is:",
+"o": [
+"26",
+"602",
+"62",
+"66"
+],
+"a": 2
+},
+{
+"id": "p1B3",
+"s": "B",
+"q": "5 tens and 3 ones make:",
+"o": [
+"35",
+"53",
+"8",
+"503"
+],
+"a": 1
+},
+{
+"id": "p1B4",
+"s": "B",
+"q": "In the number 86, the digit 8 is in the ______ place.",
+"o": [
+"Tens",
+"Ones",
+"Hundreds",
+"None of these"
+],
+"a": 0
+},
+{
+"id": "p1B5",
+"s": "B",
+"q": "Which number comes just after 59?",
+"o": [
+"58",
+"50",
+"69",
+"60"
+],
+"a": 3
+},
+{
+"id": "p1B6",
+"s": "B",
+"q": "Which number comes just before 70?",
+"o": [
+"71",
+"69",
+"60",
+"80"
+],
+"a": 1
+},
+{
+"id": "p1B7",
+"s": "B",
+"q": "Which number comes between 38 and 40?",
+"o": [
+"37",
+"41",
+"39",
+"30"
+],
+"a": 2
+},
+{
+"id": "p1B8",
+"s": "B",
+"q": "Which is the greatest number?",
+"o": [
+"49",
+"38",
+"45",
+"54"
+],
+"a": 3
+},
+{
+"id": "p1B9",
+"s": "B",
+"q": "Which is the smallest number?",
+"o": [
+"17",
+"27",
+"70",
+"71"
+],
+"a": 0
+},
+{
+"id": "p1B10",
+"s": "B",
+"q": "Choose the correct sign:  36 ___ 63",
+"o": [
+">",
+"<",
+"=",
+"+"
+],
+"a": 1
+},
+{
+"id": "p1B11",
+"s": "B",
+"q": "24 + 15 = ?",
+"o": [
+"39",
+"38",
+"49",
+"29"
+],
+"a": 0
+},
+{
+"id": "p1B12",
+"s": "B",
+"q": "58 − 23 = ?",
+"o": [
+"25",
+"35",
+"31",
+"81"
+],
+"a": 1
+},
+{
+"id": "p1B13",
+"s": "B",
+"q": "9 + 8 = ?",
+"o": [
+"16",
+"18",
+"17",
+"15"
+],
+"a": 2
+},
+{
+"id": "p1B14",
+"s": "B",
+"q": "15 − 7 = ?",
+"o": [
+"7",
+"9",
+"6",
+"8"
+],
+"a": 3
+},
+{
+"id": "p1B15",
+"s": "B",
+"q": "On a number line, a bunny starts at 4 and makes 3 jumps forward of 2 each. Where does it land?",
+"o": [
+"8",
+"10",
+"9",
+"12"
+],
+"a": 1
+},
+{
+"id": "p1B16",
+"s": "B",
+"q": "On a number line, a frog starts at 15 and takes 6 hops back of 1 each. It lands on 9. Which number sentence shows this?",
+"o": [
+"15 + 6 = 21",
+"15 − 9 = 6",
+"15 − 6 = 9",
+"9 − 6 = 3"
+],
+"a": 2
+},
+{
+"id": "p1B17",
+"s": "B",
+"q": "Find the missing number:  7 + ___ = 13",
+"o": [
+"5",
+"6",
+"7",
+"20"
+],
+"a": 1
+},
+{
+"id": "p1B18",
+"s": "B",
+"q": "Find the missing number:  ___ − 4 = 11",
+"o": [
+"7",
+"14",
+"15",
+"16"
+],
+"a": 2
+},
+{
+"id": "p1B19",
+"s": "B",
+"q": "Arrange 33, 13, 31, 23 from smallest to greatest.",
+"o": [
+"13, 23, 31, 33",
+"13, 31, 23, 33",
+"33, 31, 23, 13",
+"23, 13, 31, 33"
+],
+"a": 0
+},
+{
+"id": "p1B20",
+"s": "B",
+"q": "Fill in the blanks:  10, 20, ___, 40, ___",
+"o": [
+"25, 45",
+"30, 50",
+"30, 45",
+"35, 50"
+],
+"a": 1
+},
+{
+"id": "p1B21",
+"s": "B",
+"q": "Find the missing number:  2, 4, 6, ___, 10",
+"o": [
+"7",
+"9",
+"8",
+"12"
+],
+"a": 2
+},
+{
+"id": "p1B22",
+"s": "B",
+"q": "What is the difference between the greatest and the smallest of 12, 45, 9, 30?",
+"o": [
+"33",
+"39",
+"21",
+"36"
+],
+"a": 3
+},
+{
+"id": "p1B23",
+"s": "B",
+"q": "92 = 9 tens and ___ ones.",
+"o": [
+"2",
+"9",
+"0",
+"92"
+],
+"a": 0
+},
+{
+"id": "p1B24",
+"s": "B",
+"q": "What is double of 8?",
+"o": [
+"10",
+"16",
+"18",
+"14"
+],
+"a": 1
+},
+{
+"id": "p1B25",
+"s": "B",
+"q": "Which number name is the same as 60 + 5?",
+"o": [
+"Fifty-six",
+"Six-five",
+"Sixty-five",
+"Sixty-fifty"
+],
+"a": 2
+},
+{
+"id": "p2B1",
+"s": "B",
+"q": "Which number is 10 more than 67?",
+"o": [
+"68",
+"57",
+"77",
+"87"
+],
+"a": 2
+},
+{
+"id": "p2B2",
+"s": "B",
+"q": "Which number is 10 less than 53?",
+"o": [
+"43",
+"63",
+"52",
+"33"
+],
+"a": 0
+},
+{
+"id": "p2B3",
+"s": "B",
+"q": "7 tens and 15 ones make:",
+"o": [
+"715",
+"75",
+"85",
+"22"
+],
+"a": 2
+},
+{
+"id": "p2B4",
+"s": "B",
+"q": "Using the digits 3, 8 and 5 only once each, what is the greatest 2-digit number you can make?",
+"o": [
+"83",
+"85",
+"58",
+"853"
+],
+"a": 1
+},
+{
+"id": "p2B5",
+"s": "B",
+"q": "Using the digits 0, 4 and 7 only once each, what is the smallest 2-digit number you can make?",
+"o": [
+"47",
+"70",
+"04",
+"40"
+],
+"a": 3
+},
+{
+"id": "p2B6",
+"s": "B",
+"q": "How many 2-digit numbers have both digits the same (like 11, 22, 33)?",
+"o": [
+"9",
+"10",
+"8",
+"11"
+],
+"a": 0
+},
+{
+"id": "p2B7",
+"s": "B",
+"q": "How many numbers are there between 20 and 30 (not counting 20 and 30)?",
+"o": [
+"10",
+"9",
+"11",
+"8"
+],
+"a": 1
+},
+{
+"id": "p2B8",
+"s": "B",
+"q": "46 + 37 = ?",
+"o": [
+"81",
+"73",
+"83",
+"93"
+],
+"a": 2
+},
+{
+"id": "p2B9",
+"s": "B",
+"q": "72 − 38 = ?",
+"o": [
+"34",
+"44",
+"46",
+"36"
+],
+"a": 0
+},
+{
+"id": "p2B10",
+"s": "B",
+"q": "25 + 25 + 25 = ?",
+"o": [
+"75",
+"50",
+"70",
+"85"
+],
+"a": 0
+},
+{
+"id": "p2B11",
+"s": "B",
+"q": "Find the missing number:  ___ + 28 = 61",
+"o": [
+"43",
+"33",
+"89",
+"39"
+],
+"a": 1
+},
+{
+"id": "p2B12",
+"s": "B",
+"q": "Find the missing number:  90 − ___ = 45",
+"o": [
+"55",
+"35",
+"45",
+"40"
+],
+"a": 2
+},
+{
+"id": "p2B13",
+"s": "B",
+"q": "What is the sum of the digits of 79?",
+"o": [
+"2",
+"17",
+"15",
+"16"
+],
+"a": 3
+},
+{
+"id": "p2B14",
+"s": "B",
+"q": "8 + 8 + 8 + 8 = ?",
+"o": [
+"24",
+"30",
+"32",
+"40"
+],
+"a": 2
+},
+{
+"id": "p2B15",
+"s": "B",
+"q": "Which of these is equal to 50?",
+"o": [
+"2 tens 3 ones + 2 tens 7 ones",
+"3 tens + 2 ones",
+"5 ones",
+"4 tens 9 ones"
+],
+"a": 0
+},
+{
+"id": "p2B16",
+"s": "B",
+"q": "Which of these is an even number?",
+"o": [
+"37",
+"51",
+"64",
+"89"
+],
+"a": 2
+},
+{
+"id": "p2B17",
+"s": "B",
+"q": "Which number is exactly halfway between 20 and 30?",
+"o": [
+"24",
+"26",
+"15",
+"25"
+],
+"a": 3
+},
+{
+"id": "p2B18",
+"s": "B",
+"q": "Fill in the blanks:  3, 6, 9, 12, ___, ___",
+"o": [
+"14, 16",
+"15, 18",
+"15, 17",
+"13, 15"
+],
+"a": 1
+},
+{
+"id": "p2B19",
+"s": "B",
+"q": "Fill in the blank:  95, 85, 75, ___, 55",
+"o": [
+"70",
+"60",
+"65",
+"45"
+],
+"a": 2
+},
+{
+"id": "p2B20",
+"s": "B",
+"q": "Which number sentence is WRONG?",
+"o": [
+"9 + 6 = 15",
+"14 − 5 = 9",
+"7 + 8 = 16",
+"12 − 4 = 8"
+],
+"a": 2
+},
+{
+"id": "p2B21",
+"s": "B",
+"q": "Choose the correct sign:  4 tens 6 ones ___ 6 tens 4 ones",
+"o": [
+">",
+"<",
+"=",
+"+"
+],
+"a": 1
+},
+{
+"id": "p2B22",
+"s": "B",
+"q": "How many tens are there in 90?",
+"o": [
+"9",
+"90",
+"0",
+"10"
+],
+"a": 0
+},
+{
+"id": "p2B23",
+"s": "B",
+"q": "Rohan counts backwards by 2s starting from 40: 40, 38, 36, ... What is the 5th number he says?",
+"o": [
+"30",
+"32",
+"34",
+"31"
+],
+"a": 1
+},
+{
+"id": "p2B24",
+"s": "B",
+"q": "Find the missing number:  13 + 9 = 9 + ___",
+"o": [
+"9",
+"22",
+"13",
+"4"
+],
+"a": 2
+},
+{
+"id": "p2B25",
+"s": "B",
+"q": "Double 15 and then take away 5. What do you get?",
+"o": [
+"35",
+"30",
+"20",
+"25"
+],
+"a": 3
+},
+{
+"id": "p1C1",
+"s": "C",
+"q": "Riya has 25 flowers. 10 are red, 8 are yellow and the rest are white. How many flowers are white?",
+"o": [
+"7",
+"8",
+"5",
+"17"
+],
+"a": 0
+},
+{
+"id": "p1C2",
+"s": "C",
+"q": "A pencil costs ₹6 and an eraser costs ₹4. How much do both cost together?",
+"o": [
+"₹2",
+"₹10",
+"₹24",
+"₹12"
+],
+"a": 1
+},
+{
+"id": "p1C3",
+"s": "C",
+"q": "Aman had ₹50. He spent ₹20 on a toy. How much money is left?",
+"o": [
+"₹70",
+"₹20",
+"₹30",
+"₹25"
+],
+"a": 2
+},
+{
+"id": "p1C4",
+"s": "C",
+"q": "Which coins together make ₹10?",
+"o": [
+"₹5 + ₹5",
+"₹5 + ₹2",
+"₹2 + ₹2 + ₹2",
+"₹1 + ₹5"
+],
+"a": 0
+},
+{
+"id": "p1C5",
+"s": "C",
+"q": "Ria has two ₹10 notes and one ₹5 coin. How much money does she have?",
+"o": [
+"₹15",
+"₹20",
+"₹30",
+"₹25"
+],
+"a": 3
+},
+{
+"id": "p1C6",
+"s": "C",
+"q": "A toy aeroplane costs ₹55. Hiten has ₹40. How much more money does he need?",
+"o": [
+"₹15",
+"₹10",
+"₹5",
+"₹20"
+],
+"a": 0
+},
+{
+"id": "p1C7",
+"s": "C",
+"q": "One eraser costs ₹5. How many erasers can you buy with ₹20?",
+"o": [
+"2",
+"5",
+"4",
+"3"
+],
+"a": 2
+},
+{
+"id": "p1C8",
+"s": "C",
+"q": "The short hand of a clock is at 3 and the long hand is at 12. What time is it?",
+"o": [
+"12 o'clock",
+"3 o'clock",
+"6 o'clock",
+"Half past 3"
+],
+"a": 1
+},
+{
+"id": "p1C9",
+"s": "C",
+"q": "The short hand is between 7 and 8 and the long hand is at 6. What time is it?",
+"o": [
+"6 o'clock",
+"7 o'clock",
+"Half past 7",
+"Half past 6"
+],
+"a": 2
+},
+{
+"id": "p1C10",
+"s": "C",
+"q": "At what time do most children eat lunch?",
+"o": [
+"1 o'clock in the afternoon",
+"1 o'clock at night",
+"6 o'clock in the morning",
+"11 o'clock at night"
+],
+"a": 0
+},
+{
+"id": "p1C11",
+"s": "C",
+"q": "A movie starts at 4 o'clock and lasts 2 hours. When does it end?",
+"o": [
+"5 o'clock",
+"6 o'clock",
+"2 o'clock",
+"8 o'clock"
+],
+"a": 1
+},
+{
+"id": "p1C12",
+"s": "C",
+"q": "How many minutes are there in 1 hour?",
+"o": [
+"30",
+"100",
+"60",
+"24"
+],
+"a": 2
+},
+{
+"id": "p1C13",
+"s": "C",
+"q": "Half an hour is the same as:",
+"o": [
+"15 minutes",
+"60 minutes",
+"50 minutes",
+"30 minutes"
+],
+"a": 3
+},
+{
+"id": "p1C14",
+"s": "C",
+"q": "A pencil is 12 cm long and a crayon is 7 cm long. How much longer is the pencil?",
+"o": [
+"19 cm",
+"5 cm",
+"4 cm",
+"6 cm"
+],
+"a": 1
+},
+{
+"id": "p1C15",
+"s": "C",
+"q": "Which of these is the longest?",
+"o": [
+"Pencil",
+"Spoon",
+"Door",
+"Eraser"
+],
+"a": 2
+},
+{
+"id": "p1C16",
+"s": "C",
+"q": "A rope is 20 m long. 8 m is cut off. How long is the rope now?",
+"o": [
+"12 m",
+"28 m",
+"10 m",
+"13 m"
+],
+"a": 0
+},
+{
+"id": "p1C17",
+"s": "C",
+"q": "A red ribbon is 6 paper clips long. A blue ribbon is 9 paper clips long. How long are both ribbons together?",
+"o": [
+"13 clips",
+"14 clips",
+"15 clips",
+"3 clips"
+],
+"a": 2
+},
+{
+"id": "p1C18",
+"s": "C",
+"q": "Which of these is the heaviest?",
+"o": [
+"Feather",
+"Pencil",
+"Leaf",
+"Watermelon"
+],
+"a": 3
+},
+{
+"id": "p1C19",
+"s": "C",
+"q": "A bag of rice weighs 10 kg and a bag of sugar weighs 4 kg. What is their total weight?",
+"o": [
+"6 kg",
+"14 kg",
+"13 kg",
+"40 kg"
+],
+"a": 1
+},
+{
+"id": "p1C20",
+"s": "C",
+"q": "Sonu weighs 25 kg. His father weighs 70 kg. How much heavier is his father?",
+"o": [
+"45 kg",
+"95 kg",
+"55 kg",
+"35 kg"
+],
+"a": 0
+},
+{
+"id": "p1C21",
+"s": "C",
+"q": "1 pineapple balances 3 apples on a weighing scale. How many apples will balance 2 pineapples?",
+"o": [
+"3",
+"5",
+"6",
+"9"
+],
+"a": 2
+},
+{
+"id": "p1C22",
+"s": "C",
+"q": "A class has 30 boys and 25 girls. How many children are there in all?",
+"o": [
+"45",
+"55",
+"5",
+"65"
+],
+"a": 1
+},
+{
+"id": "p1C23",
+"s": "C",
+"q": "18 birds were sitting on a tree. 9 flew away. How many birds are left?",
+"o": [
+"7",
+"8",
+"10",
+"9"
+],
+"a": 3
+},
+{
+"id": "p1C24",
+"s": "C",
+"q": "There are 4 cars. Each car has 4 wheels. How many wheels are there in all?",
+"o": [
+"8",
+"12",
+"16",
+"20"
+],
+"a": 2
+},
+{
+"id": "p1C25",
+"s": "C",
+"q": "A bus had 20 people. At a stop, 6 people got off and 4 people got on. How many people are on the bus now?",
+"o": [
+"18",
+"22",
+"10",
+"14"
+],
+"a": 0
+},
+{
+"id": "p2C1",
+"s": "C",
+"q": "Neha has ₹50. She buys a pen for ₹18 and a notebook for ₹25. How much money is left?",
+"o": [
+"₹7",
+"₹17",
+"₹12",
+"₹8"
+],
+"a": 0
+},
+{
+"id": "p2C2",
+"s": "C",
+"q": "One toffee costs ₹2. How much will 9 toffees cost?",
+"o": [
+"₹11",
+"₹18",
+"₹16",
+"₹20"
+],
+"a": 1
+},
+{
+"id": "p2C3",
+"s": "C",
+"q": "Which is more money: three ₹10 notes or seven ₹5 coins, and by how much?",
+"o": [
+"Three ₹10 notes, by ₹5",
+"Seven ₹5 coins, by ₹5",
+"Both are equal",
+"Seven ₹5 coins, by ₹2"
+],
+"a": 1
+},
+{
+"id": "p2C4",
+"s": "C",
+"q": "Using ₹10, ₹5, ₹2 and ₹1 coins, what is the fewest number of coins that make ₹17?",
+"o": [
+"4",
+"5",
+"3",
+"2"
+],
+"a": 2
+},
+{
+"id": "p2C5",
+"s": "C",
+"q": "Ali buys a toy for ₹65 and pays with a ₹100 note. How much change does he get?",
+"o": [
+"₹35",
+"₹45",
+"₹25",
+"₹165"
+],
+"a": 0
+},
+{
+"id": "p2C6",
+"s": "C",
+"q": "A cake costs ₹40. Ravi has ₹15 and Sita has ₹20. If they put their money together, how much more do they need?",
+"o": [
+"₹10",
+"₹25",
+"₹20",
+"₹5"
+],
+"a": 3
+},
+{
+"id": "p2C7",
+"s": "C",
+"q": "School starts at 8 o'clock and ends 6 hours later. At what time does school end?",
+"o": [
+"12 o'clock",
+"2 o'clock",
+"1 o'clock",
+"3 o'clock"
+],
+"a": 1
+},
+{
+"id": "p2C8",
+"s": "C",
+"q": "It is 9 o'clock now. What time was it 3 hours ago?",
+"o": [
+"12 o'clock",
+"3 o'clock",
+"6 o'clock",
+"9 o'clock"
+],
+"a": 2
+},
+{
+"id": "p2C9",
+"s": "C",
+"q": "The long hand of a clock moves from 12 to 6. How many minutes have passed?",
+"o": [
+"15",
+"6",
+"60",
+"30"
+],
+"a": 3
+},
+{
+"id": "p2C10",
+"s": "C",
+"q": "Which is the longest time?",
+"o": [
+"1 hour",
+"50 minutes",
+"Half an hour",
+"45 minutes"
+],
+"a": 0
+},
+{
+"id": "p2C11",
+"s": "C",
+"q": "A bus leaves at half past 2. The trip takes 1 hour. When does the bus arrive?",
+"o": [
+"3 o'clock",
+"Half past 3",
+"Half past 1",
+"4 o'clock"
+],
+"a": 1
+},
+{
+"id": "p2C12",
+"s": "C",
+"q": "How many days are there in 2 weeks?",
+"o": [
+"7",
+"12",
+"14",
+"21"
+],
+"a": 2
+},
+{
+"id": "p2C13",
+"s": "C",
+"q": "Which month has only 28 days in most years?",
+"o": [
+"January",
+"June",
+"February",
+"April"
+],
+"a": 2
+},
+{
+"id": "p2C14",
+"s": "C",
+"q": "A 50 cm ribbon is cut into 2 equal pieces. How long is each piece?",
+"o": [
+"20 cm",
+"25 cm",
+"30 cm",
+"48 cm"
+],
+"a": 1
+},
+{
+"id": "p2C15",
+"s": "C",
+"q": "A pencil is 9 cm long. A crayon is 4 cm shorter than the pencil. What is the total length of both?",
+"o": [
+"22 cm",
+"5 cm",
+"13 cm",
+"14 cm"
+],
+"a": 3
+},
+{
+"id": "p2C16",
+"s": "C",
+"q": "Tom's table is 8 of Tom's hand-spans long. His father measures it with his own bigger hand-spans. What will he get?",
+"o": [
+"More than 8",
+"Less than 8",
+"Exactly 8",
+"It can't be measured"
+],
+"a": 1
+},
+{
+"id": "p2C17",
+"s": "C",
+"q": "A ladder has 12 steps. Rani is on the 5th step. She climbs up 4 steps and then comes down 2 steps. Which step is she on now?",
+"o": [
+"7th",
+"9th",
+"3rd",
+"11th"
+],
+"a": 0
+},
+{
+"id": "p2C18",
+"s": "C",
+"q": "A bag of potatoes weighs 15 kg. A bag of onions weighs 8 kg less. What do both bags weigh together?",
+"o": [
+"23 kg",
+"22 kg",
+"7 kg",
+"30 kg"
+],
+"a": 1
+},
+{
+"id": "p2C19",
+"s": "C",
+"q": "1 apple weighs the same as 2 bananas. How many bananas weigh the same as 4 apples?",
+"o": [
+"8",
+"6",
+"4",
+"2"
+],
+"a": 0
+},
+{
+"id": "p2C20",
+"s": "C",
+"q": "A box with 3 same-sized books inside weighs 10 kg. The empty box weighs 1 kg. How much does each book weigh?",
+"o": [
+"2 kg",
+"4 kg",
+"3 kg",
+"9 kg"
+],
+"a": 2
+},
+{
+"id": "p2C21",
+"s": "C",
+"q": "35 children were on a bus. 12 got off and 8 got on. How many children are on the bus now?",
+"o": [
+"31",
+"39",
+"15",
+"27"
+],
+"a": 0
+},
+{
+"id": "p2C22",
+"s": "C",
+"q": "A garden has 4 rows of plants with 5 plants in each row. How many plants are there?",
+"o": [
+"9",
+"15",
+"20",
+"25"
+],
+"a": 2
+},
+{
+"id": "p2C23",
+"s": "C",
+"q": "Meena read 8 pages on Monday and twice as many pages on Tuesday. How many pages did she read in the two days?",
+"o": [
+"16",
+"24",
+"18",
+"32"
+],
+"a": 1
+},
+{
+"id": "p2C24",
+"s": "C",
+"q": "A box has 30 crayons: 10 red, 8 blue and the rest green. How many more green crayons are there than blue?",
+"o": [
+"12",
+"2",
+"4",
+"20"
+],
+"a": 2
+},
+{
+"id": "p2C25",
+"s": "C",
+"q": "6 birds sit on a tree and 3 cats walk under it. How many legs are there in all?",
+"o": [
+"30",
+"20",
+"18",
+"24"
+],
+"a": 3
+},
+{
+"id": "p1D1",
+"s": "D",
+"q": "How many corners does a triangle have?",
+"o": [
+"2",
+"3",
+"4",
+"0"
+],
+"a": 1
+},
+{
+"id": "p1D2",
+"s": "D",
+"q": "Which shape has NO corners?",
+"o": [
+"Square",
+"Triangle",
+"Circle",
+"Rectangle"
+],
+"a": 2
+},
+{
+"id": "p1D3",
+"s": "D",
+"q": "How many sides does a square have?",
+"o": [
+"4",
+"3",
+"5",
+"6"
+],
+"a": 0
+},
+{
+"id": "p1D4",
+"s": "D",
+"q": "A football has the shape of a:",
+"o": [
+"Cube",
+"Cone",
+"Cylinder",
+"Sphere"
+],
+"a": 3
+},
+{
+"id": "p1D5",
+"s": "D",
+"q": "An ice-cream cone has the shape of a:",
+"o": [
+"Cone",
+"Cube",
+"Sphere",
+"Cylinder"
+],
+"a": 0
+},
+{
+"id": "p1D6",
+"s": "D",
+"q": "A dice has the shape of a:",
+"o": [
+"Sphere",
+"Cube",
+"Cone",
+"Cylinder"
+],
+"a": 1
+},
+{
+"id": "p1D7",
+"s": "D",
+"q": "A juice can has the shape of a:",
+"o": [
+"Cube",
+"Cone",
+"Cylinder",
+"Sphere"
+],
+"a": 2
+},
+{
+"id": "p1D8",
+"s": "D",
+"q": "Which object can BOTH roll and slide?",
+"o": [
+"Ball",
+"Juice can",
+"Book",
+"Box"
+],
+"a": 1
+},
+{
+"id": "p1D9",
+"s": "D",
+"q": "Which object can slide but NOT roll?",
+"o": [
+"Ball",
+"Orange",
+"Book",
+"Marble"
+],
+"a": 2
+},
+{
+"id": "p1D10",
+"s": "D",
+"q": "Each face of a cube is a:",
+"o": [
+"Circle",
+"Triangle",
+"Square",
+"Oval"
+],
+"a": 2
+},
+{
+"id": "p1D11",
+"s": "D",
+"q": "How many corners does a rectangle have?",
+"o": [
+"3",
+"4",
+"5",
+"2"
+],
+"a": 1
+},
+{
+"id": "p1D12",
+"s": "D",
+"q": "What comes next?  ▲ ■ ■ ▲ ■ ■ ▲ ___ ___",
+"o": [
+"▲ ▲",
+"■ ▲",
+"■ ■",
+"▲ ■"
+],
+"a": 2
+},
+{
+"id": "p1D13",
+"s": "D",
+"q": "What comes next?  1, 3, 5, 7, ___",
+"o": [
+"8",
+"9",
+"10",
+"11"
+],
+"a": 1
+},
+{
+"id": "p1D14",
+"s": "D",
+"q": "What comes next?  20, 18, 16, 14, ___",
+"o": [
+"13",
+"10",
+"15",
+"12"
+],
+"a": 3
+},
+{
+"id": "p1D15",
+"s": "D",
+"q": "What comes next?  A, C, E, G, ___",
+"o": [
+"J",
+"K",
+"I",
+"H"
+],
+"a": 2
+},
+{
+"id": "p1D16",
+"s": "D",
+"q": "How many dots will be in the next row?\nRow 1: ●  Row 2: ● ●  Row 3: ● ● ●  Row 4: ?",
+"o": [
+"3",
+"5",
+"4",
+"6"
+],
+"a": 2
+},
+{
+"id": "p1D17",
+"s": "D",
+"q": "What comes next?  11, 22, 33, 44, ___",
+"o": [
+"55",
+"45",
+"54",
+"66"
+],
+"a": 0
+},
+{
+"id": "p1D18",
+"s": "D",
+"q": "What comes next?  red, blue, blue, red, blue, blue, red, ___",
+"o": [
+"red",
+"blue",
+"green",
+"yellow"
+],
+"a": 1
+},
+{
+"id": "p1D19",
+"s": "D",
+"q": "A square sheet of paper is cut along one line from one corner to the opposite corner. How many triangles do you get?",
+"o": [
+"4",
+"1",
+"3",
+"2"
+],
+"a": 3
+},
+{
+"id": "p1D20",
+"s": "D",
+"q": "Which letter is made of ONLY straight lines?",
+"o": [
+"O",
+"S",
+"L",
+"C"
+],
+"a": 2
+},
+{
+"id": "p2D1",
+"s": "D",
+"q": "How many sides do 3 triangles have altogether?",
+"o": [
+"6",
+"9",
+"12",
+"3"
+],
+"a": 1
+},
+{
+"id": "p2D2",
+"s": "D",
+"q": "How many corners do a rectangle and a square have together?",
+"o": [
+"6",
+"7",
+"8",
+"9"
+],
+"a": 2
+},
+{
+"id": "p2D3",
+"s": "D",
+"q": "Which solid has NO flat face?",
+"o": [
+"Cube",
+"Cylinder",
+"Cone",
+"Sphere"
+],
+"a": 3
+},
+{
+"id": "p2D4",
+"s": "D",
+"q": "How many flat faces does a cylinder have?",
+"o": [
+"0",
+"1",
+"2",
+"3"
+],
+"a": 2
+},
+{
+"id": "p2D5",
+"s": "D",
+"q": "How many faces does a cube have?",
+"o": [
+"4",
+"6",
+"8",
+"12"
+],
+"a": 1
+},
+{
+"id": "p2D6",
+"s": "D",
+"q": "Which solid has 1 flat face and 1 pointed tip?",
+"o": [
+"Cone",
+"Cube",
+"Cylinder",
+"Sphere"
+],
+"a": 0
+},
+{
+"id": "p2D7",
+"s": "D",
+"q": "The pattern ▲ ● ■ ▲ ● ■ ▲ ● ■ ... keeps going. What is the 10th shape?",
+"o": [
+"▲",
+"●",
+"■",
+"★"
+],
+"a": 0
+},
+{
+"id": "p2D8",
+"s": "D",
+"q": "What comes next?  2, 5, 8, 11, ___",
+"o": [
+"13",
+"14",
+"15",
+"12"
+],
+"a": 1
+},
+{
+"id": "p2D9",
+"s": "D",
+"q": "What comes next?  1, 4, 9, 16, ___",
+"o": [
+"20",
+"23",
+"25",
+"32"
+],
+"a": 2
+},
+{
+"id": "p2D10",
+"s": "D",
+"q": "What comes next?  AB, CD, EF, ___",
+"o": [
+"FG",
+"GH",
+"HI",
+"GI"
+],
+"a": 1
+},
+{
+"id": "p2D11",
+"s": "D",
+"q": "Row 1 has 2 stars, Row 2 has 4 stars and Row 3 has 6 stars. How many stars will Row 6 have?",
+"o": [
+"14",
+"10",
+"8",
+"12"
+],
+"a": 3
+},
+{
+"id": "p2D12",
+"s": "D",
+"q": "A square is cut along both of its corner-to-corner lines (diagonals). How many small triangles are made?",
+"o": [
+"8",
+"2",
+"4",
+"6"
+],
+"a": 2
+},
+{
+"id": "p2D13",
+"s": "D",
+"q": "Join the middle points of the sides of a big triangle to make 4 small triangles inside it. How many triangles are there in all, counting the big one?",
+"o": [
+"4",
+"5",
+"3",
+"6"
+],
+"a": 1
+},
+{
+"id": "p2D14",
+"s": "D",
+"q": "Which letter looks the same when it is turned upside down?",
+"o": [
+"H",
+"A",
+"M",
+"T"
+],
+"a": 0
+},
+{
+"id": "p2D15",
+"s": "D",
+"q": "How many straight lines are needed to write the capital letter E?",
+"o": [
+"3",
+"5",
+"4",
+"2"
+],
+"a": 2
+},
+{
+"id": "p1E1",
+"s": "E",
+"q": "2 apples weigh 1 kg. How much will 8 apples weigh?",
+"o": [
+"2 kg",
+"4 kg",
+"8 kg",
+"16 kg"
+],
+"a": 1,
+"w": "8 apples = 4 pairs, 4 × 1 kg = 4 kg"
+},
+{
+"id": "p1E2",
+"s": "E",
+"q": "I am 5 more than 18. Which number am I?",
+"o": [
+"13",
+"22",
+"23",
+"24"
+],
+"a": 2,
+"w": "18 + 5 = 23"
+},
+{
+"id": "p1E3",
+"s": "E",
+"q": "Which pair of numbers adds up to 20?",
+"o": [
+"12 and 9",
+"11 and 8",
+"15 and 6",
+"13 and 7"
+],
+"a": 3,
+"w": "13 + 7 = 20"
+},
+{
+"id": "p1E4",
+"s": "E",
+"q": "Match Column A with Column B.\nP. 3 tens 5 ones − 1 ten 2 ones  (1) 22\nQ. 4 tens − 1 ten 5 ones  (2) 23\nR. 2 tens 8 ones − 6 ones  (3) 25",
+"o": [
+"P-(1), Q-(2), R-(3)",
+"P-(2), Q-(3), R-(1)",
+"P-(3), Q-(1), R-(2)",
+"P-(2), Q-(1), R-(3)"
+],
+"a": 1,
+"w": "P: 35 − 12 = 23; Q: 40 − 15 = 25; R: 28 − 6 = 22"
+},
+{
+"id": "p1E5",
+"s": "E",
+"q": "Arjun had one ₹50 note, one ₹20 note and one ₹10 coin. He bought a cake for ₹15, a sandwich for ₹25 and an ice cream for ₹30. How much money is left?",
+"o": [
+"₹10",
+"₹20",
+"₹15",
+"₹5"
+],
+"a": 0,
+"w": "Had ₹80, spent ₹70, left ₹10"
+},
+{
+"id": "p1E6",
+"s": "E",
+"q": "Meena has three ₹10 coins, two ₹5 coins and one ₹2 coin. How much money does she have in all?",
+"o": [
+"₹37",
+"₹32",
+"₹42",
+"₹45"
+],
+"a": 2,
+"w": "30 + 10 + 2 = ₹42"
+},
+{
+"id": "p1E7",
+"s": "E",
+"q": "A book weighs 2 kg, a bag weighs 3 kg and a box weighs 5 kg. Mark T for true and F for false.\nP: The box is the heaviest.  Q: The book and the bag together weigh the same as the box.",
+"o": [
+"P-T, Q-T",
+"P-T, Q-F",
+"P-F, Q-T",
+"P-F, Q-F"
+],
+"a": 0,
+"w": "Box 5 kg is heaviest; 2 + 3 = 5"
+},
+{
+"id": "p1E8",
+"s": "E",
+"q": "On a number line, a frog makes one big jump from 0 to 8, then 5 small jumps forward of 1 each. Which number sentence shows this?",
+"o": [
+"13 − 5 = 8",
+"8 + 5 = 13",
+"5 + 5 = 10",
+"13 − 8 = 4"
+],
+"a": 1,
+"w": "8 + 5 = 13"
+},
+{
+"id": "p1E9",
+"s": "E",
+"q": "Sita takes 30 minutes to cycle to the park and 20 minutes to cycle back home. How long does she cycle in total?",
+"o": [
+"10 minutes",
+"40 minutes",
+"50 minutes",
+"1 hour"
+],
+"a": 2,
+"w": "30 + 20 = 50 minutes"
+},
+{
+"id": "p1E10",
+"s": "E",
+"q": "Roe goes to dance class for 1 hour 30 minutes, art class for 1 hour and swimming for 1 hour. How much time does he spend in all?",
+"o": [
+"3 hours",
+"2 hours 30 minutes",
+"2 hours",
+"3 hours 30 minutes"
+],
+"a": 3,
+"w": "1 h 30 min + 1 h + 1 h = 3 h 30 min"
+},
+{
+"id": "p1E11",
+"s": "E",
+"q": "Kirti puts 20 mangoes equally into 4 baskets. How many mangoes are in each basket?",
+"o": [
+"4",
+"5",
+"6",
+"16"
+],
+"a": 1,
+"w": "5 + 5 + 5 + 5 = 20"
+},
+{
+"id": "p1E12",
+"s": "E",
+"q": "A robot is drawn with: a square head, two circle eyes, a triangle nose, a rectangle body, two circle hands and two square feet. How many circles, triangles and squares are there?",
+"o": [
+"4 circles, 1 triangle, 3 squares",
+"2 circles, 1 triangle, 3 squares",
+"4 circles, 1 triangle, 2 squares",
+"4 circles, 2 triangles, 3 squares"
+],
+"a": 0,
+"w": "Circles 2 + 2 = 4; triangle 1; squares 1 + 2 = 3"
+},
+{
+"id": "p1E13",
+"s": "E",
+"q": "Find the digits P and Q in this sum:  2P + Q4 = 59",
+"o": [
+"P = 5, Q = 3",
+"P = 3, Q = 5",
+"P = 4, Q = 3",
+"P = 5, Q = 4"
+],
+"a": 0,
+"w": "Ones: P + 4 = 9, so P = 5; tens: 2 + Q = 5, so Q = 3 (25 + 34 = 59)"
+},
+{
+"id": "p1E14",
+"s": "E",
+"q": "Ria is 7 years old. Her brother is 4 years older than her. How old will her brother be after 2 years?",
+"o": [
+"11",
+"13",
+"9",
+"12"
+],
+"a": 1,
+"w": "11 now, 13 after 2 years"
+},
+{
+"id": "p1E15",
+"s": "E",
+"q": "I am a 2-digit number. My tens digit is 4. My ones digit is 2 more than my tens digit. Who am I?",
+"o": [
+"42",
+"64",
+"46",
+"44"
+],
+"a": 2,
+"w": "Tens 4, ones 4 + 2 = 6"
+},
+{
+"id": "p1E16",
+"s": "E",
+"q": "In a queue, Tina is 4th from the front and 3rd from the back. How many children are in the queue?",
+"o": [
+"6",
+"7",
+"8",
+"5"
+],
+"a": 0,
+"w": "3 in front + Tina + 2 behind = 6"
+},
+{
+"id": "p1E17",
+"s": "E",
+"q": "If 5th November is a Thursday, what day is 12th November?",
+"o": [
+"Friday",
+"Saturday",
+"Thursday",
+"Wednesday"
+],
+"a": 2,
+"w": "7 days later is the same weekday"
+},
+{
+"id": "p1E18",
+"s": "E",
+"q": "A farm has 5 dogs and 2 hens. How many legs are there in all?",
+"o": [
+"22",
+"24",
+"28",
+"14"
+],
+"a": 1,
+"w": "5 × 4 = 20, 2 × 2 = 4, total 24"
+},
+{
+"id": "p1E19",
+"s": "E",
+"q": "There are 3 tricycles and 2 bicycles. How many wheels are there in all?",
+"o": [
+"10",
+"12",
+"13",
+"15"
+],
+"a": 2,
+"w": "3 + 3 + 3 + 2 + 2 = 13"
+},
+{
+"id": "p1E20",
+"s": "E",
+"q": "Look at the pattern:\nRow 1: ● ▲ ●  Row 2: ● ▲ ▲ ●  Row 3: ● ▲ ▲ ▲ ●\nHow many shapes in all will be in Row 5?",
+"o": [
+"5",
+"6",
+"8",
+"7"
+],
+"a": 3,
+"w": "5 triangles + 2 circles = 7"
+},
+{
+"id": "p1E21",
+"s": "E",
+"q": "Which is more, 4 tens 9 ones or 5 tens 1 one, and by how much?",
+"o": [
+"4 tens 9 ones, by 2",
+"5 tens 1 one, by 2",
+"5 tens 1 one, by 12",
+"Both are equal"
+],
+"a": 1,
+"w": "51 − 49 = 2"
+},
+{
+"id": "p1E22",
+"s": "E",
+"q": "Anthony's school is 14 km from his home and the library is 9 km from his home. Which is farther, and by how much?",
+"o": [
+"Library, 5 km",
+"School, 14 km",
+"School, 5 km",
+"Library, 9 km"
+],
+"a": 2,
+"w": "14 − 9 = 5 km, school is farther"
+},
+{
+"id": "p1E23",
+"s": "E",
+"q": "Which number is the odd one out?  22, 33, 44, 54",
+"o": [
+"22",
+"33",
+"44",
+"54"
+],
+"a": 3,
+"w": "Others have both digits the same"
+},
+{
+"id": "p1E24",
+"s": "E",
+"q": "Mr. Zec ordered 48 cupcakes, but only 29 were delivered. How many cupcakes did not arrive?",
+"o": [
+"21",
+"19",
+"29",
+"17"
+],
+"a": 1,
+"w": "48 − 29 = 19"
+},
+{
+"id": "p1E25",
+"s": "E",
+"q": "Rohan thinks of a number. He adds 8 to it, then takes away 5, and gets 15. What number did he start with?",
+"o": [
+"12",
+"18",
+"10",
+"28"
+],
+"a": 0,
+"w": "Work backwards: 15 + 5 = 20, 20 − 8 = 12"
+},
+{
+"id": "p2E1",
+"s": "E",
+"q": "I am a 2-digit number. My digits add up to 9. My tens digit is double my ones digit. Who am I?",
+"o": [
+"36",
+"63",
+"54",
+"81"
+],
+"a": 1,
+"w": "Ones = 3, tens = 6: 6 + 3 = 9"
+},
+{
+"id": "p2E2",
+"s": "E",
+"q": "Add 15 to a number and then take away 20. The answer is 30. What was the number?",
+"o": [
+"45",
+"25",
+"65",
+"35"
+],
+"a": 3,
+"w": "Work backwards: 30 + 20 = 50, 50 − 15 = 35"
+},
+{
+"id": "p2E3",
+"s": "E",
+"q": "★ + ★ = 14 and ★ + ● = 10. What is ●?",
+"o": [
+"3",
+"4",
+"7",
+"5"
+],
+"a": 0,
+"w": "★ = 7 (7 + 7 = 14), so ● = 10 − 7 = 3"
+},
+{
+"id": "p2E4",
+"s": "E",
+"q": "▲ + ▲ + ▲ = 15 and ▲ + ■ = 12. What is ■?",
+"o": [
+"5",
+"6",
+"7",
+"8"
+],
+"a": 2,
+"w": "▲ = 5 (5 + 5 + 5 = 15), so ■ = 12 − 5 = 7"
+},
+{
+"id": "p2E5",
+"s": "E",
+"q": "Riya has 4 more stickers than Mohan. Together they have 20 stickers. How many stickers does Riya have?",
+"o": [
+"12",
+"8",
+"10",
+"16"
+],
+"a": 0,
+"w": "Take away the extra 4: 20 − 4 = 16, split equally = 8 each, Riya = 8 + 4 = 12"
+},
+{
+"id": "p2E6",
+"s": "E",
+"q": "What is the difference between the greatest 2-digit number and the smallest 2-digit number?",
+"o": [
+"90",
+"88",
+"99",
+"89"
+],
+"a": 3,
+"w": "99 − 10 = 89"
+},
+{
+"id": "p2E7",
+"s": "E",
+"q": "One box holds 6 cupcakes. How many boxes are needed to pack 20 cupcakes?",
+"o": [
+"3",
+"4",
+"5",
+"2"
+],
+"a": 1,
+"w": "3 boxes hold 18, 2 are left, so a 4th box is needed"
+},
+{
+"id": "p2E8",
+"s": "E",
+"q": "Ravi has 4 coins. They are only ₹5 and ₹2 coins, and they make ₹14. How many ₹5 coins does he have?",
+"o": [
+"3",
+"1",
+"2",
+"4"
+],
+"a": 2,
+"w": "Two ₹5 + two ₹2 = 10 + 4 = ₹14"
+},
+{
+"id": "p2E9",
+"s": "E",
+"q": "A farm has some hens and some cows. There are 5 heads and 14 legs. How many cows are there?",
+"o": [
+"2",
+"3",
+"4",
+"1"
+],
+"a": 0,
+"w": "2 cows (8 legs) + 3 hens (6 legs) = 14 legs"
+},
+{
+"id": "p2E10",
+"s": "E",
+"q": "Ben is 6th from the front of a line. There are 4 children behind him. How many children are in the line?",
+"o": [
+"9",
+"10",
+"11",
+"8"
+],
+"a": 1,
+"w": "6 children up to Ben + 4 behind = 10"
+},
+{
+"id": "p2E11",
+"s": "E",
+"q": "Today is Saturday, the 28th. What day was the 1st of this month?",
+"o": [
+"Friday",
+"Saturday",
+"Sunday",
+"Monday"
+],
+"a": 2,
+"w": "28, 21, 14, 7 are Saturdays, so the 1st is Sunday"
+},
+{
+"id": "p2E12",
+"s": "E",
+"q": "It is half past 4. What time will it be after 2 hours and 30 minutes?",
+"o": [
+"6 o'clock",
+"Half past 7",
+"Half past 6",
+"7 o'clock"
+],
+"a": 3,
+"w": "Half past 4 + 2 hours = half past 6, + 30 minutes = 7 o'clock"
+},
+{
+"id": "p2E13",
+"s": "E",
+"q": "Which three numbers from 2, 5, 7, 9 add up to 21?",
+"o": [
+"2, 5, 7",
+"5, 7, 9",
+"2, 7, 9",
+"2, 5, 9"
+],
+"a": 1,
+"w": "5 + 7 + 9 = 21"
+},
+{
+"id": "p2E14",
+"s": "E",
+"q": "1 watermelon weighs the same as 3 pineapples. 1 pineapple weighs the same as 2 mangoes. How many mangoes weigh the same as 1 watermelon?",
+"o": [
+"6",
+"5",
+"3",
+"9"
+],
+"a": 0,
+"w": "3 pineapples × 2 mangoes each = 6"
+},
+{
+"id": "p2E15",
+"s": "E",
+"q": "Asha is 6 years old and her mother is 30. How old will Asha be when her mother is 40?",
+"o": [
+"10",
+"14",
+"16",
+"20"
+],
+"a": 2,
+"w": "Mother gets 10 years older, so Asha is 6 + 10 = 16"
+}
+]
